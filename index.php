@@ -1,5 +1,5 @@
 <?php 
-include("index.html");
-include("videos.html");
-include("testimonials.html");
+@include_once("index.html");
+@include_once("videos.html");
+@include_once("testimonials.html");
  ?>
